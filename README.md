@@ -11,6 +11,7 @@ Mi nombre es Federico, nací y vivo en Argentina :argentina: .
 * Framework que domino fuertemente es CakePHP
 * Desarrollos para dispositivos móviles en AndroidStudio
 * Conocimiento en CSS, HTML, Python, Javascript, Jquery, C, C#, .NET, Dark
+* Uso de Docker avanzado
 
 ## Contacto
 
